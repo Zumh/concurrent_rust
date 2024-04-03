@@ -13,5 +13,5 @@ In addition to the above, the instructor also recommends the following advice:
 * Don't prematurely optimize your code.
 * Understand the theory of difficult concurrency, as this will make it easier to apply in practice.
 * Concurrent code is usually small but can be difficult to debug. Use sanitizers, stress testers, assertions, and line-by-line debugging to help you find bugs.
-* Mathematical and PL thinking can help you debug concurrent programs by forcing you to think carefully about the safety and correctness of your code.
+* Mathematical and PL(Programming Language) thinking can help you debug concurrent programs by forcing you to think carefully about the safety and correctness of your code.
 http://googleusercontent.com/youtube_content/1
