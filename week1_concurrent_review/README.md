@@ -1,6 +1,4 @@
-## Week1 Concurrent Programming
-* Here are the main takeaways from the lecture according to youtube:
-
+## Week1 Concurrent Programming Intro
 * Concurrency is a fundamental concept for parallel computing, which is becoming increasingly important as the era of AI and IoT unfolds.
 * Concurrency is difficult to reason about due to non-determinism, which arises from interleaving (the order of execution of instructions) and compiler optimizations.
 * There are two main approaches to concurrency: lock-based concurrency (easy) and difficult concurrency.
@@ -8,7 +6,7 @@
 * Difficult concurrency allows for more parallelism by carefully managing non-determinism. This requires a deep understanding of the theory and can be challenging to debug, but it can also lead to better performance.
 * The key to writing correct and scalable concurrent code is to tame the right amount of non-determinism.
 
-In addition to the above, the instructor also recommends the following advice:
+In addition to the above:
 * Always start with easy concurrency (lock-based) and only move to difficult concurrency if it is a bottleneck.
 * Don't prematurely optimize your code.
 * Understand the theory of difficult concurrency, as this will make it easier to apply in practice.
