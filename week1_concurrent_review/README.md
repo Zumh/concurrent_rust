@@ -22,5 +22,5 @@ In addition to the above:
     * Lock-free concurrency is more difficult to reason about but can be more scalable.
 * The instructor advises students to start with lock-based concurrency for its simplicity and only move to lock-free concurrency when necessary.
 * Debugging concurrent programs is more difficult than debugging sequential programs and the course will cover tools and techniques for debugging concurrent programs.
-http://googleusercontent.com/youtube_content/1
+- http://googleusercontent.com/youtube_content/1
 
